@@ -1,2 +1,2 @@
 # autocad-lsp
-Various Scripts for automating autocad
+Various Scripts for oddomating autocad
